@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Piter-P
+- 👀 I’m interested in programing python
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on something at my level if it is posible
